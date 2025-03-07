@@ -7,7 +7,7 @@ enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
 publishDir = "../prod-site/blog.withzichen.com/"
 
-theme = 'hugo-blog-awesome'
+theme = 'blog-theme'
 
 [markup]
   [markup.highlight]
